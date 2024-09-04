@@ -1,0 +1,25 @@
+package Enum;
+
+public enum PessoasNomas {
+	MARIA,
+	JOÃO,
+	PEDRO,
+	ANA,
+	CARLA,
+	LUCAS,
+	BEATRIZ,
+	GUSTAVO,
+	JULIA,
+	FABIANA,
+	RICARDO,
+	CAMILA,
+	ANDRÉ,
+	PAOLA,
+	FELIPE,
+	DANIELA,
+	BRUNO,
+	LETÍCIA,
+	VICTOR,
+	ISABELA
+
+}

@@ -1,0 +1,35 @@
+package Enum;
+
+public enum Super {
+	ARROZ,
+	FEIJÃO,
+	MACARRÃO,
+	AZEITE,
+	LEITE,
+	PÃO,
+	MANTEIGA,
+	QUEIJO,
+	PRESUNTO,
+	FRANGO,
+	CARNE,
+	OVO,
+	TOMATE,
+	CEBOLA,
+	ALHO,
+	BATATA,
+	MAÇÃ,
+	BANANA,
+	LARANJA,
+	CENOURA,
+	ALFACE,
+	BRÓCOLIS,
+	SAL,
+	AÇÚCAR,
+	CAFÉ,
+	CHÁ,
+	REFRIGERANTE,
+	SUCO,
+	YOGURTE,
+	BISCUITO
+
+}

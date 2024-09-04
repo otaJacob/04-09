@@ -1,0 +1,15 @@
+package Enum;
+
+public enum AulasSESI {
+	MATEMATICA,
+	PORTUGUES,
+	SENAI,
+	INGLES,
+	GEOGRAFIA,
+	FISICA,
+	QUIMICA,
+	T_A,
+	BIOLOGIA,
+	
+
+}
